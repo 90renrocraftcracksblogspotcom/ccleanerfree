@@ -5,7 +5,7 @@
 2.Make sure to close the program properly (close from the taskbar icon).
 
  Download from releases section or : https://github.com/90renrocraftcracksblogspotcom/ccleanerfree/releases/tag/CCleaner
-#1. You need to get licence key for my installer to get that go to https://renrotech.wordpress.com/2024/06/23/all-licence-key-available-here/
+#1. You need to block the app from firewall
 ##Free CCleaner 6.25 For 2024 23rd June Professional Edition Only
 
 2. Open Your CCleaner installed location (Default is - C:/ProgramFiles/CCleaner)
