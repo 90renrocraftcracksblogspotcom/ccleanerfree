@@ -1,4 +1,5 @@
 ## IMPORTANT BEFORE INSTALLATION !!!
+Secret Portable Edition has been released too press +1 release to find it
 
 1.Install the 6.26 version from my installer but not launch it.
 
