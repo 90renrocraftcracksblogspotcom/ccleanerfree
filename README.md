@@ -1,13 +1,6 @@
-## IMPORTANT BEFORE INSTALLATION !!!
-Secret Portable Edition has been released too press +1 release to find it
+# IMPORTANT BEFORE INSTALLATION !!!
 
-1.Install the 6.26 version from my installer but not launch it.
-
-2. For the serial key you need to go to this website : https://10files.wordpress.com/2024/09/02/ccleaner-6-27-full-professional-edition/
-
- Download from releases section or : https://github.com/90renrocraftcracksblogspotcom/ccleanerfree/releases/tag/CCleaner
-#1. You need to block the app from firewall by going to the folder extracted from installer and run firewallblockerforCclener.exe and don't open it again
-##Free CCleaner 6.27 For 2024 2nd September Professional Edition Only
+1.Install the 6.35 version from my installer but not launch it.
 
 2. Open Your CCleaner installed location (Default is - C:/ProgramFiles/CCleaner)
 
